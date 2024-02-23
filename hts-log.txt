@@ -1,0 +1,27 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 23 Feb 2024 12:07:39 at https://thetork.com/demos/html/bitrader/index.html?theme=dark +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://thetork.com/demos/html/bitrader/index.html?theme=dark -O1 "D:\hackmol_5.0\ASAP.NET" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:09:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://thetork.com/demos/html/bitrader/assets/images/demo/4-dark.png (from https://thetork.com/demos/html/bitrader/index.html?theme=dark)
+12:09:31	Warning: 	Retry after error -4 (No data (connection closed)) at link https://thetork.com/demos/html/bitrader/services.html (from https://thetork.com/demos/html/bitrader/index.html?theme=dark)
+12:09:31	Warning: 	Retry after error -4 (No data (connection closed)) at link https://thetork.com/demos/html/bitrader/service-details.html (from https://thetork.com/demos/html/bitrader/index.html?theme=dark)
+12:09:42	Warning: 	Retry after error -4 (No data (connection closed)) at link https://thetork.com/demos/html/bitrader/assets/images/team/3.png (from https://thetork.com/demos/html/bitrader/index.html?theme=dark)
+12:09:42	Error: 	"Not Found" (404) at link https://thetork.com/demos/html/bitrader/service.html (from https://thetork.com/demos/html/bitrader/index.html?theme=dark)
+12:09:42	Warning: 	Retry after error -4 (No data (connection closed)) at link https://thetork.com/demos/html/bitrader/assets/js/aos.js (from https://thetork.com/demos/html/bitrader/index.html?theme=dark)
+12:09:42	Warning: 	Retry after error -4 (No data (connection closed)) at link https://thetork.com/demos/html/bitrader/assets/webfonts/fa-brands-400.ttf (from https://thetork.com/demos/html/bitrader/assets/css/all.min.css)
+12:09:42	Warning: 	Retry after error -4 (No data (connection closed)) at link https://thetork.com/demos/html/bitrader/assets/webfonts/fa-v4compatibility.woff2 (from https://thetork.com/demos/html/bitrader/assets/css/all.min.css)
+12:09:44	Warning: 	Retry after error -4 (No data (connection closed)) at link https://thetork.com/demos/html/Bitrader/ (from https://thetork.com/demos/html/bitrader/index-2.html?theme=light)
+12:09:44	Warning: 	Retry after error -4 (No data (connection closed)) at link https://thetork.com/demos/html/bitrader/assets/images/banner/home2/bg.png (from https://thetork.com/demos/html/bitrader/index-2.html?theme=light)
+12:09:46	Error: 	"Not Found" (404) at link https://thetork.com/demos/html/bitrader/assets/images/logo/logo-2.png (from https://thetork.com/demos/html/bitrader/index-5.html?theme=light)
+12:09:46	Warning: 	Retry after error -4 (No data (connection closed)) at link https://thetork.com/demos/html/bitrader/assets/images/banner/shape/4.png (from https://thetork.com/demos/html/bitrader/index-5.html?theme=light)
+12:09:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://thetork.com/demos/html/bitrader/assets/images/header/1.png (from https://thetork.com/demos/html/bitrader/about.html)
+12:09:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://thetork.com/demos/html/bitrader/assets/images/contact/1.png (from https://thetork.com/demos/html/bitrader/contact.html)
+12:09:48	Error: 	"Not Found" (404) at link https://thetork.com/demos/html/Bitrader/ (from https://thetork.com/demos/html/bitrader/index-2.html?theme=light)
+12:09:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://thetork.com/demos/html/bitrader/assets/images/team/other/1.png (from https://thetork.com/demos/html/bitrader/service-details.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 11 seconds : 243 links scanned, 226 files written (12267223 bytes overall) [9348939 bytes received at 71365 bytes/sec], 3888531 bytes transferred using HTTP compression in 52 files, ratio 23%, 14.2 requests per connection
+(3 errors, 13 warnings, 0 messages)
